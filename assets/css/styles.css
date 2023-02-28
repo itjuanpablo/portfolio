@@ -527,16 +527,16 @@ img {
   width: 80%;
 }
 
-.skills__node {
-  width: 30%;
+.skills__docker {
+  width: 70%;
 }
 
 .skills__mysql {
-  width: 50%;
+  width: 60%;
 }
 
 .skills__canva {
-  width: 90%;
+  width: 100%;
 }
 
 .skills__sparkar {
